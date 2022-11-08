@@ -10,11 +10,17 @@ Este projeto possui funcionalidade de cadastro de pessoas físicas e jurídicas,
 3.TECNOLOGIAS UTILIZADAS
 dotNET, Vs Code, GIT, C#
 
-4.PRÉ-REQUISITOS DE INSTALAÇÃO
+4.ORGANIZAÇÃO DO PROJETO
+O projeto foi proposto e ministrado pelo SENAI-SP no curso de DESENVOLVIMENTO FULL STACK
+
+5.PRÉ-REQUISITOS DE INSTALAÇÃO
 Os pré-requisitos para a instalação do projeto são as ferramentas dotNET e VScode para manipulação e execução dos arquivos.
 
-5.EXECUÇÃO DA APLICAÇÃO
+6.EXECUÇÃO DA APLICAÇÃO
 Executada apenas em console local para fins de desenvolvimento.
 
-6.ERROS
+7.ERROS
 Não foram encontrados erros até o momento.
+
+8.CONTRIBUIDORES
+Caue silva (Senai)
