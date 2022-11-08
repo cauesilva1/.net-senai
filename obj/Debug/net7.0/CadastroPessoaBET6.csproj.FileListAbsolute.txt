@@ -1,0 +1,15 @@
+C:\Users\cauec\OneDrive\Área de Trabalho\Back-End-ER08\bin\Debug\net7.0\CadastroPessoaBET6.exe
+C:\Users\cauec\OneDrive\Área de Trabalho\Back-End-ER08\bin\Debug\net7.0\CadastroPessoaBET6.deps.json
+C:\Users\cauec\OneDrive\Área de Trabalho\Back-End-ER08\bin\Debug\net7.0\CadastroPessoaBET6.runtimeconfig.json
+C:\Users\cauec\OneDrive\Área de Trabalho\Back-End-ER08\bin\Debug\net7.0\CadastroPessoaBET6.dll
+C:\Users\cauec\OneDrive\Área de Trabalho\Back-End-ER08\bin\Debug\net7.0\CadastroPessoaBET6.pdb
+C:\Users\cauec\OneDrive\Área de Trabalho\Back-End-ER08\obj\Debug\net7.0\CadastroPessoaBET6.csproj.AssemblyReference.cache
+C:\Users\cauec\OneDrive\Área de Trabalho\Back-End-ER08\obj\Debug\net7.0\CadastroPessoaBET6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cauec\OneDrive\Área de Trabalho\Back-End-ER08\obj\Debug\net7.0\CadastroPessoaBET6.AssemblyInfoInputs.cache
+C:\Users\cauec\OneDrive\Área de Trabalho\Back-End-ER08\obj\Debug\net7.0\CadastroPessoaBET6.AssemblyInfo.cs
+C:\Users\cauec\OneDrive\Área de Trabalho\Back-End-ER08\obj\Debug\net7.0\CadastroPessoaBET6.csproj.CoreCompileInputs.cache
+C:\Users\cauec\OneDrive\Área de Trabalho\Back-End-ER08\obj\Debug\net7.0\CadastroPessoaBET6.dll
+C:\Users\cauec\OneDrive\Área de Trabalho\Back-End-ER08\obj\Debug\net7.0\refint\CadastroPessoaBET6.dll
+C:\Users\cauec\OneDrive\Área de Trabalho\Back-End-ER08\obj\Debug\net7.0\CadastroPessoaBET6.pdb
+C:\Users\cauec\OneDrive\Área de Trabalho\Back-End-ER08\obj\Debug\net7.0\CadastroPessoaBET6.genruntimeconfig.cache
+C:\Users\cauec\OneDrive\Área de Trabalho\Back-End-ER08\obj\Debug\net7.0\ref\CadastroPessoaBET6.dll
